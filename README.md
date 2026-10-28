@@ -258,5 +258,4 @@ I'm interested in collaborating on database engineering, cloud platforms, enterp
 I believe in continuous learning, practical problem-solving, and building reliable solutions that simplify complex technical operations.
 
 **Thanks for visiting my GitHub profile!** 🚀
-# genai
-sample project
+
